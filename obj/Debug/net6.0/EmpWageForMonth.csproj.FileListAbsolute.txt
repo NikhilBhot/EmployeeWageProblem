@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\bin\Debug\net6.0\EmpWageForMonth.exe
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\bin\Debug\net6.0\EmpWageForMonth.deps.json
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\bin\Debug\net6.0\EmpWageForMonth.runtimeconfig.json
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\bin\Debug\net6.0\EmpWageForMonth.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\bin\Debug\net6.0\EmpWageForMonth.pdb
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\EmpWageForMonth.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\EmpWageForMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\EmpWageForMonth.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\EmpWageForMonth.AssemblyInfo.cs
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\EmpWageForMonth.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\EmpWageForMonth.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\refint\EmpWageForMonth.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\EmpWageForMonth.pdb
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\EmpWageForMonth.genruntimeconfig.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpWageForMonth\obj\Debug\net6.0\ref\EmpWageForMonth.dll
