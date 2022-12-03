@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\bin\Debug\net6.0\EmpAbsentPresent.exe
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\bin\Debug\net6.0\EmpAbsentPresent.deps.json
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\bin\Debug\net6.0\EmpAbsentPresent.runtimeconfig.json
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\bin\Debug\net6.0\EmpAbsentPresent.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\bin\Debug\net6.0\EmpAbsentPresent.pdb
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\EmpAbsentPresent.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\EmpAbsentPresent.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\EmpAbsentPresent.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\EmpAbsentPresent.AssemblyInfo.cs
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\EmpAbsentPresent.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\EmpAbsentPresent.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\refint\EmpAbsentPresent.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\EmpAbsentPresent.pdb
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\EmpAbsentPresent.genruntimeconfig.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpAbsentPresent\obj\Debug\net6.0\ref\EmpAbsentPresent.dll
