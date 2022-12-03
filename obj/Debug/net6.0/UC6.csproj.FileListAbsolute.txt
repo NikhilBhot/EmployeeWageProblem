@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\EmployeeProblem\UC6\bin\Debug\net6.0\UC6.exe
+D:\DLS-RFP-231\EmployeeProblem\UC6\bin\Debug\net6.0\UC6.deps.json
+D:\DLS-RFP-231\EmployeeProblem\UC6\bin\Debug\net6.0\UC6.runtimeconfig.json
+D:\DLS-RFP-231\EmployeeProblem\UC6\bin\Debug\net6.0\UC6.dll
+D:\DLS-RFP-231\EmployeeProblem\UC6\bin\Debug\net6.0\UC6.pdb
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\UC6.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\UC6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\UC6.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\UC6.AssemblyInfo.cs
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\UC6.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\UC6.dll
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\refint\UC6.dll
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\UC6.pdb
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\UC6.genruntimeconfig.cache
+D:\DLS-RFP-231\EmployeeProblem\UC6\obj\Debug\net6.0\ref\UC6.dll
