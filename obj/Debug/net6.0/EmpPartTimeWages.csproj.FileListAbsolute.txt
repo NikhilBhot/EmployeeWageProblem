@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\EmpPartTimeWages.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\EmpPartTimeWages.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\EmpPartTimeWages.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\EmpPartTimeWages.AssemblyInfo.cs
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\EmpPartTimeWages.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\bin\Debug\net6.0\EmpPartTimeWages.exe
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\bin\Debug\net6.0\EmpPartTimeWages.deps.json
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\bin\Debug\net6.0\EmpPartTimeWages.runtimeconfig.json
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\bin\Debug\net6.0\EmpPartTimeWages.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\bin\Debug\net6.0\EmpPartTimeWages.pdb
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\EmpPartTimeWages.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\refint\EmpPartTimeWages.dll
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\EmpPartTimeWages.pdb
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\EmpPartTimeWages.genruntimeconfig.cache
+D:\DLS-RFP-231\EmployeeProblem\EmpPartTimeWages\obj\Debug\net6.0\ref\EmpPartTimeWages.dll
